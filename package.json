@@ -1,0 +1,19 @@
+{
+  "name": "blockchain",
+  "version": "0.0.0",
+  "description": "Create block chain with TS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunEom/block_chain.git"
+  },
+  "author": "Suneom <dkxl0701@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunEom/block_chain/issues"
+  },
+  "homepage": "https://github.com/SunEom/block_chain#readme"
+}
