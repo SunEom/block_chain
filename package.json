@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SunEom/block_chain#readme",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "tsc-watch": "^4.2.9"
   },
   "devDependencies": {
